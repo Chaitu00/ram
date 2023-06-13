@@ -1,0 +1,2 @@
+# ram
+all are accessible
